@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="p"
+                 name="Documentation"
+                 start-page="Vue.md">
+
+    <toc-element topic="Vue.md">
+        <toc-element topic="Start.md"/>
+        <toc-element topic="Binding.md"/>
+        <toc-element topic="Conditional.md"/>
+        <toc-element topic="List-Rendering.md"/>
+        <toc-element topic="Event-Handling.md"/>
+        <toc-element topic="Class-and-Style.md"/>
+        <toc-element topic="Computed-Properties.md"/>
+        <toc-element topic="Components-and-Propos.md"/>
+        <toc-element topic="Communicating-Events.md"/>
+        <toc-element topic="Form-and-v-model.md"/>
+    </toc-element>
+</instance-profile>
