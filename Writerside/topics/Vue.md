@@ -8,4 +8,6 @@
 Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. 
 The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects.
 
+Let's start with the basics.
+
 > [Cheat Sheet](https://www.vuemastery.com/vue-cheat-sheet)
