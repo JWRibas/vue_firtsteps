@@ -15,9 +15,9 @@ permissions:
 
 env:
   # Name of module and id separated by a slash
-  INSTANCE: Writerside/Vue First Steps
+  INSTANCE: Writerside/topics
   # Replace HI with the ID of the instance in capital letters
-  ARTIFACT: webHelpHI2-all.zip
+  ARTIFACT: webHelptopics2-all.zip
   # Writerside docker image version
   DOCKER_VERSION: 24.0.5
 
